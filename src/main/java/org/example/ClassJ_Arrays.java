@@ -1,4 +1,4 @@
-package javaBasics.justBasics;
+package org.example;
 
 public class ClassJ_Arrays {
     public static void main(String[] args) {

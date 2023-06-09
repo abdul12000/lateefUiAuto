@@ -14,10 +14,11 @@ public class MainClass13Set {
         cars.add("Landrover");
         cars.add("Mercedes");
         cars.add("Mercedes");
-        for(String i : cars)
+        for(String i : cars) {
             System.out.println(i);
 
-        //
-        System.out.println(cars);
+
+        }
+
     }
 }
